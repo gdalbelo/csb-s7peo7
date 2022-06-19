@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gdalbelo.github.io/csb-s7peo7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://gdalbelo.github.io/csb-s7peo7/static/js/main.d8c399b8.chunk.js",
+    "main.js.map": "https://gdalbelo.github.io/csb-s7peo7/static/js/main.d8c399b8.chunk.js.map",
+    "runtime-main.js": "https://gdalbelo.github.io/csb-s7peo7/static/js/runtime-main.03e9c46c.js",
+    "runtime-main.js.map": "https://gdalbelo.github.io/csb-s7peo7/static/js/runtime-main.03e9c46c.js.map",
+    "static/js/2.eef17325.chunk.js": "https://gdalbelo.github.io/csb-s7peo7/static/js/2.eef17325.chunk.js",
+    "static/js/2.eef17325.chunk.js.map": "https://gdalbelo.github.io/csb-s7peo7/static/js/2.eef17325.chunk.js.map",
+    "index.html": "https://gdalbelo.github.io/csb-s7peo7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://gdalbelo.github.io/csb-s7peo7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eef17325.chunk.js.LICENSE.txt": "https://gdalbelo.github.io/csb-s7peo7/static/js/2.eef17325.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03e9c46c.js",
+    "static/js/2.eef17325.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d8c399b8.chunk.js"
+  ]
+}
